@@ -1,0 +1,59 @@
+/* Your styles here */
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+body {
+  text-align: center;
+  width: 500px;
+  margin: 0 auto;
+}
+header {
+  height: 500px;
+}
+header div {
+  background-color: black;
+  height: 25%;
+}
+header section {
+  background-image: url(S1-L5/Esercizio/images/banner.jpg);
+  height: 75%;
+}
+header button {
+    background-color: #f04c2f ;
+    font-family: "Montserrat" sans-serif;
+    font-weight: bold;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5%;
+    
+}
+
+body {
+  font-family: open sans-serif;
+  font-size: 1.2rem;
+  color: #393d41;
+  line-height: 1.65;
+}
+
+header section h1 {
+  font-family: "Montserrat" sans-serif;
+  font-weight: bold;
+  color: #25a2c3;
+  line-height: 1.5;
+}
+#guarantee {
+    background-color: #e22d0e;
+}
+h2 {font-family: "Montserrat" sans-serif;
+    font-weight: bold;
+    color: #25a2c3;
+    line-height: 1.5;
+  }
+#radius-img img {
+    border-radius: 50%;
+}
+#button-section article{
+    padding-top: 20%;
+
+}
+
+
